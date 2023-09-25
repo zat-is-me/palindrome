@@ -1,1 +1,1 @@
-# find the number of palindrome numbers between two given numbers
+# Find the number of palindrome numbers between two given numbers

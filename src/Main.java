@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
 
         int num1 = 10;
-        int num2 = 120;
+        int num2 = 220;
         numberOfPalindrome(num1 , num2).stream().forEach(i-> System.out.print(" "+i));
     }
 
